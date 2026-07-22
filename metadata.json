@@ -1,0 +1,6 @@
+{
+  "name": "1secondsharing",
+  "description": "Быстрый P2P обмен файлами между пользователями без хранения на сервере",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
